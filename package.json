@@ -1,0 +1,27 @@
+{
+  "name": "package-webpack-string-loader",
+  "version": "0.0.1",
+  "description": "This loader will load the file as the string and return in CommonJS format in Javascript Syntax",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sdwangbaotong/package-webpack-string-loader.git"
+  },
+  "keywords": [
+    "webpack",
+    "loader",
+    "package"
+  ],
+  "author": {
+    "name": "baotong.wang",
+    "email": "baotong.wang@qunar.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sdwangbaotong/package-webpack-string-loader/issues"
+  },
+  "homepage": "https://github.com/sdwangbaotong/package-webpack-string-loader"
+}
